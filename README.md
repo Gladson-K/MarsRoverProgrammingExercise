@@ -1,4 +1,32 @@
-# Mars Rover Programming Exercise
+# Exercise -1 
+
+# Behavioral Design Patterns
+
+# 1. Observer Pattern
+Use Case: A weather station that notifies various displays (e.g., current conditions display, statistics display) whenever there is a change in weather data.
+
+# 2.Command Pattern
+Use Case: A simple remote control that can execute commands to turn a light on or off.
+
+# Creational Design Patterns
+
+# 3. Singleton Pattern
+Use Case: A logging system where only one instance of the logger is used throughout the application.
+
+# 4. Factory Pattern
+Use Case: A shape factory that creates different types of shapes (circle, square) based on input.
+
+# Structural Design Patterns
+
+# 5. Adapter Pattern
+Use Case: Adapting an old interface (OldPrinter) to a new interface (NewPrinter) using an adapter.
+
+# 6. Decorator Pattern
+Use Case: Adding additional functionality (e.g., logging) to an existing function (e.g., basic computation).
+
+
+
+# Mars Rover Programming Exercise - Exercise 2
  
 This project is a simulation of a Mars Rover navigating a grid-based terrain. The rover has the ability to move forward, turn left, and turn right while avoiding obstacles and staying within the grid boundaries. The implementation follows object-oriented programming principles, design patterns, and eliminates the use of if-else conditional constructs.
 
